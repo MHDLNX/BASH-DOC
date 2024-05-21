@@ -3,4 +3,5 @@
 - <a href="single Bracket and double.md">single Bracket `[]` and double `[[]]` - the difference</a>
 - <a href="read command in Bash.md">read command in bash scripting</a>
 - <a href="For condition structure.md">For-condition Structure</a>
+- <a href="while-loop.md">While loop structure</a>
 
