@@ -1,1 +1,2 @@
-- <a href="IF-condition-structure.md">IF-Condition<a>
+- <a href="test-Command.md">Test Commands</a>
+- <a href="IF-condition-structure.md">IF-Condition</a>
