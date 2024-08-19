@@ -1,4 +1,4 @@
-## how to backup a certain file with running ```backup``` command 
+## how to creating our own comamnd : backup a certain file with running ```backup``` command 
 
 - so first we change the mod of our file :
 
